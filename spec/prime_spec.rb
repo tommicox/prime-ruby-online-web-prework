@@ -21,10 +21,10 @@ describe "prime?" do
 end
 
 def prime(num)
-  num = 2.0
-  puts ||
-  prime.expect
+  if num < 0 or num == 0 or num 1
+  return false
+else
+  (2..num-1).to_a.all? do |possible_factor|
+    num % possible_factor != 0
 end
-
-def non_prime
 end
