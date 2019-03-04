@@ -19,3 +19,9 @@ describe "prime?" do
     expect(prime?(101013)).to be(false)
   end
 end
+
+def prime
+end
+
+def non_prime
+end
