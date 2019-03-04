@@ -22,6 +22,7 @@ end
 
 def prime(num)
   num = 2
+  prime.expect
 end
 
 def non_prime
