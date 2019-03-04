@@ -22,7 +22,7 @@ end
 
 def prime(num)
   num = 2
-  puts 
+  puts ||
   prime.expect
 end
 
