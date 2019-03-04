@@ -21,7 +21,7 @@ describe "prime?" do
 end
 
 def prime(num)
-  num = 2
+  num = 2.0
   puts ||
   prime.expect
 end
