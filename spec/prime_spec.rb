@@ -20,7 +20,8 @@ describe "prime?" do
   end
 end
 
-def prime
+def prime(num)
+  num = 2
 end
 
 def non_prime
