@@ -22,6 +22,7 @@ end
 
 def prime(num)
   num = 2
+  puts 
   prime.expect
 end
 
